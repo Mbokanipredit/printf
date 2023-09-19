@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by Joseph and Ciny
+ * by Predit and Thierry
  *
  * Return: Always 0
  */
